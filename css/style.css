@@ -1,0 +1,13 @@
+.blog_post{
+  text-indent: 10pt;
+  color: #444444;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.about_me {
+  text-align: center;
+  text-indent: 10pt;
+  font-family: sans-serif;
+  font-style: italic;
+}
